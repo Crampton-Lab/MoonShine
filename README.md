@@ -1,5 +1,5 @@
 # MoonShine
-![logo.png](../../images/logo.png)
+![logo.png](./others/logo.png)
 
 MoonShine is a moonlight cycle re-creation system for experimental biologist and field ecologist.
 
