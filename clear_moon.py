@@ -36,7 +36,7 @@ LED_INVERT     = False   # True to invert the signal (when using NPN transistor 
 
 LED_CHANNEL    = 0       # set to '1' for GPIOs 13, 19, 41, 45 or 53
 
-LED_STRIP = ws.SK6812_STRIP_GRBW
+LED_STRIP = ws.SK6812_STRIP_GRBW    # the GRBW order is correct for addressing the corrosponding channels on the BTF-Lighting LED strips. The order of the GRBW letters can be rearranged to accommodate another RGBW protocol. 
 
 
 # Define functions which animate LEDs in various ways.
