@@ -9,7 +9,7 @@ Online Instruction Manual: [https://lokpoon.github.io/moonshine_manual/overview.
 
 This site hosts the files mentioned in the manual.
 ## Files that run on the computer
-### The three versions of MoonShine R program:
+### The three versions of MoonShineR R program:
 - `moonshineR_lux_calculator.R`
 - `moonshineR_moonlight_scheduler.R`
 - `moonshineR_sunlight_twilight_scheduler.R`
@@ -18,7 +18,7 @@ This site hosts the files mentioned in the manual.
 ### Manual scheduler excel template file:
 - `manual_scheduler.xlsx`
 ## Files that run on the Raspberry Pi
-### The moon and sun versions of MoonShine Python program:
+### The moon and sun versions of MoonShineP Python program:
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
 ### The moon and sun versions of `clear.py`:
