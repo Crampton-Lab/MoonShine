@@ -9,10 +9,10 @@ Online Instruction Manual: [https://lokpoon.github.io/moonshine_manual/overview.
 
 This site hosts the files mentioned in the manual.
 ## Files that run on the computer
-### The three versions of MoonSim R program:
-- `moonsim_lux_calculator.R`
-- `moonsim_moonlight_scheduler.R`
-- `moonsim_sunlight_twilight_scheduler.R`
+### The three versions of MoonShine R program:
+- `moonshineR_lux_calculator.R`
+- `moonshineR_moonlight_scheduler.R`
+- `moonshineR_sunlight_twilight_scheduler.R`
 ### LED spectrum preview excel file:
 - `RGBW_LED_spectrum.xlsx`
 ### Manual scheduler excel template file:
