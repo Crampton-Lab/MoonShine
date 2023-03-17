@@ -1,7 +1,7 @@
 # MoonShine
 <img src="/others/logo.png" width=40% height=40%>
 
-WEBSITE UNDER CONSTRUCTION. PAPER PENDING REVIEW.
+WEBSITE UNDER CONSTRUCTION, PENDING REVIEW OF A MANUSCRIPT.
 
 MoonShine is a moonlight cycle re-creation system for experimental biologist and field ecologist.
 
