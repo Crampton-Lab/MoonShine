@@ -36,6 +36,6 @@ The current repository hosts the files mentioned in this manual. The following i
 ### The moon and sun versions of MoonShineP Python program:
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
-### The moon and sun versions of `clear.py`:
+### The moon and sun versions of `clear.py` for turnning off the LED arrays:
 - `clear_moon.py`
 - `clear_sun.py`
