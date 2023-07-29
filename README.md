@@ -8,16 +8,16 @@ MoonShine is a suite of tools for moonlight ground illuminance prediction and mo
 PUT PUBLICATION INFORMATION HERE LATER
 # Moonlight ground illuminance prediction:
 ## Install MoonShineR package:
-1. Install and load _devtools_ (aviliable on CRAN) in R session.
+1. Install and load library _devtools_ (aviliable on CRAN) in R.
 2. Run the folloing line in R to install MoonShineR from Crampton-Lab GitHub repository:
-devtools::install_github("Crampton-Lab/MoonShineR_package")
+`devtools::install_github("Crampton-Lab/MoonShineR_package")`
 3. Restart R session:
-.rs.restartR()
+`.rs.restartR()`
 4. Load MoonShineR library:
-library(MoonShineR)
+`library(MoonShineR)`
 5. Check out R docuentations of the two functions:
-?MoonShineR::predict_lux
-?MoonShineR::plot_lux
+`?MoonShineR::predict_lux`
+`?MoonShineR::plot_lux`
 6. Also see Chapter 1 "MoonShineR package" in the online instruction manual: [https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/moonshine_manual/overview.html)
 
 MoonShineR pacakage GitHub repository: https://github.com/Crampton-Lab/MoonShineR_package
