@@ -18,11 +18,11 @@ PUT PUBLICATION INFORMATION HERE LATER
 5. Check out R docuentations of the two MoonShineR functions:  
 `?MoonShineR::predict_lux`  
 `?MoonShineR::plot_lux`
-6. Also see Chapter 1 "MoonShineR package" in the online instruction manual: [https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/moonshine_manual/overview.html)
+6. Also see Chapter 1 "MoonShineR package" in the online instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html
 
 MoonShineR pacakage GitHub repository: https://github.com/Crampton-Lab/MoonShineR_package
 # Moonlight cycle re-creation:
-See online instruction manual: [https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/moonshine_manual/overview.html)  
+See online instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html
 The current repository hosts the files mentioned in this manual. The following is a checklist of the files provided.
 ## Files that run on the computer
 ### The two versions of MoonShineR scheduler R program:
