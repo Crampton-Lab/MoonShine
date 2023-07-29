@@ -3,10 +3,12 @@
 
 WEBSITE UNDER CONSTRUCTION, PENDING REVIEW OF A MANUSCRIPT.
 
-MoonShine is a moonlight cycle re-creation system for experimental biologist and field ecologist.
+MoonShine is a suite of tools for moonlight ground illuminance prediction and moonlight cycle re-creation, useful for both experimental biologists and field ecologists.
 
-Online Instruction Manual: [https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/moonshine_manual/overview.html)
+# Moonlight ground illuminance prediction:
 
+# Moonlight cycle re-creation:
+See online instruction manual: [https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/moonshine_manual/overview.html)
 This site hosts the files mentioned in the manual.
 ## Files that run on the computer
 ### The two versions of MoonShineR scheduler R program:
