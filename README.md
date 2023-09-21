@@ -1,4 +1,5 @@
 # MoonShine
+## Updated Sep 21, 2023
 <img src="/others/moonshine_logo.png" width=50% height=50%>
 
 WEBSITE UNDER CONSTRUCTION, PENDING REVIEW OF A MANUSCRIPT.
