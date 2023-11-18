@@ -11,7 +11,7 @@ PUT PUBLICATION INFORMATION HERE LATER
 ## Install MoonShineR package:
 1. Install and load library _devtools_ (aviliable on CRAN) in R.
 <br/><br/>
-`nstall.packages("devtools")
+`install.packages("devtools")`
 <br/><br/>
 `library(devtools)`
 
