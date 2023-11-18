@@ -10,10 +10,12 @@ PUT PUBLICATION INFORMATION HERE LATER
 # Moonlight ground illuminance prediction:
 ## Install MoonShineR package:
 1. Install and load library _devtools_ (aviliable on CRAN) in R.
-```install.packages("devtools")```
-```library(devtools)```
+<br/><br/>
+`nstall.packages("devtools")
+<br/><br/>
+`library(devtools)`
 
-2. Run the folloing line in R to install MoonShineR from Crampton-Lab GitHub repository:  
+2. Run the folloing line in R to install MoonShineR from Crampton-Lab GitHub repository: 
 `devtools::install_github("Crampton-Lab/MoonShineR_package")`
 3. Restart R session:  
 `.rs.restartR()`
