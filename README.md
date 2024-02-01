@@ -27,7 +27,7 @@ Citation: Poon, L., Jenks, I. T., Crampton, W. G. R. (2024). MoonShine: A softwa
 `?MoonShineR::plot_lux`
 6. Also see Chapter 1 "MoonShineR package" of the online instruction manual:  https://lokpoon.github.io/MoonShine_manual/overview.html
 
-MoonShineR package GitHub repository:  
+MoonShineR package GitHub source code repository:  
 https://github.com/Crampton-Lab/MoonShineR_package
 # Moonlight cycle re-creation:
 See online instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html  
