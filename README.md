@@ -2,7 +2,7 @@
 ## Updated Feb 1, 2024
 <img src="/others/moonshine_logo.png" width=50% height=50%>
 
-MoonShine is a suite of software tools and electronic hardware for predicting moonlight ground illuminance and for re-creating moonlight cycles in a laboratory environment using LED arrays. MoonShine is designed for field and experimental ecologists, chronobiologists, visual biologists, and physiologists. MoonShine also predicts and re-create sunlight, making it a one-stop solution for creating natural diel light cycles or manipulating light cycles in a range of animal husbandry and experimental scenarios.
+MoonShine is a suite of software tools and electronic hardware for predicting moonlight ground illuminance and for re-creating moonlight cycles in a laboratory environment using LED arrays. MoonShine is designed for field and experimental ecologists, chronobiologists, visual biologists, and physiologists. MoonShine also predicts and re-creates sunlight, making it a one-stop solution for creating full natural diel light cycles or for manipulating light cycles in a range of animal husbandry and experimental scenarios.
 
 Instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html
 
