@@ -8,7 +8,7 @@ Instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html
 
 Citation: Poon, L., Jenks, I. T., Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. Accepted for publication (Jan 30, 2024).
 
-Technical support contact: poonchiulok@gmail.com (first author: Lok Poon)
+Technical support contact: Lok Poon (poonchiulok@gmail.com)
 
 # Moonlight ground illuminance prediction:
 ## Install MoonShineR package:
