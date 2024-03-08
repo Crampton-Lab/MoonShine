@@ -27,7 +27,7 @@ Technical support contact: Lok Poon (poonchiulok@gmail.com)
 5. Check out R documentation of the two MoonShineR functions:  
 `?MoonShineR::predict_lux`  
 `?MoonShineR::plot_lux`
-6. Also see Chapter 1 "MoonShineR package" of the online instruction manual:  https://lokpoon.github.io/MoonShine_manual/overview.html
+6. Also see Chapter 1 "MoonShineR package" of the online instruction manual:  https://lokpoon.github.io/MoonShine_manual/overview.html](https://lokpoon.github.io/MoonShine_manual/lux_calculator.html
 
 MoonShineR package GitHub source code repository:  
 https://github.com/Crampton-Lab/MoonShineR_package
