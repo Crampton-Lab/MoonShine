@@ -6,7 +6,8 @@ MoonShine is a suite of software tools and electronic hardware for predicting mo
 
 Instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html
 
-Citation: Poon, L., Jenks, I. T., Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. <ins>https://doi.org/10.1111/2041-210X.14299</ins>
+# Citation
+Poon, L., Jenks, I. T., Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. <ins>https://doi.org/10.1111/2041-210X.14299</ins>
 
 Technical support contact: Lok Poon (poonchiulok@gmail.com)
 
