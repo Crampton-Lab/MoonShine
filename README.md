@@ -39,7 +39,7 @@ MoonShineR (v1.1) is tested working with these dependency packages versions:
 	- REdaS (<= 0.9.4),
 	- ggplot2 (<= 3.5.1)
 
-If the package is not working, please first try installing the above packages in the specified version.
+If MoonShineR is not working, please first try installing the above packages in the specified version.
 
 MoonShineR package GitHub source code repository:  
 https://github.com/Crampton-Lab/MoonShineR_package
