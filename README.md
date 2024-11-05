@@ -30,6 +30,17 @@ Technical support contact: Lok Poon (poonchiulok@gmail.com)
 `?MoonShineR::plot_lux`
 6. Also see Chapter 1 "MoonShineR package" of the online instruction manual: https://lokpoon.github.io/MoonShine_manual/lux_calculator.html
 
+Note:
+MoonShineR (v1.1) is tested working with these dependency packages versions:
+	suncalc (<= 0.5.1),
+	magrittr (<= 2.0.3),
+	dplyr (<= 1.1.4),
+	lubridate (<= 1.9.3),
+	REdaS (<= 0.9.4),
+	ggplot2 (<= 3.5.1)
+
+If the package is not working, please first try installing the above packages in the specified version.
+
 MoonShineR package GitHub source code repository:  
 https://github.com/Crampton-Lab/MoonShineR_package
 # Moonlight cycle re-creation:
