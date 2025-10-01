@@ -120,7 +120,6 @@ sun_value_table$sunlight <- ifelse(sun_value_table$sun_altitude < 5 & sun_value_
 
 # Add sunlight and twilight together
 sun_value_table$raw_twilight_sun <- sun_value_table$twilight + sun_value_table$sunlight # add twilight and sunlight illuminance together
-sun_value_table$raw_twilight_sun <- illuminance_fraction * sun_value_table$raw_twilight_sun # apply illuminance_fraction
 sun_value_table <- transform(sun_value_table, adjusted_twilight_sun = ifelse(raw_twilight_sun > theoretical_max, theoretical_max, raw_twilight_sun)) # apply the ceiling for sunlight recreation
 
 #---------------------------END OF ILLUMINATION COMPUTATION---------------------------
