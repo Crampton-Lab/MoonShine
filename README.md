@@ -13,33 +13,7 @@ Technical support contact: Lok Poon (poonchiulok@gmail.com)
 
 # Moonlight ground illuminance prediction:
 ## Install MoonShineR package:
-1. Install and load library _devtools_ (available on CRAN) in R.
-<br/><br/>
-`install.packages("devtools")`
-<br/><br/>
-`library(devtools)`
-
-2. Run the following line in R to install MoonShineR from Crampton-Lab GitHub repository: 
-`devtools::install_github("Crampton-Lab/MoonShineR_package")`
-3. Restart R session:  
-`.rs.restartR()`
-4. Load MoonShineR library:  
-`library(MoonShineR)`
-5. Check out R documentation of the two MoonShineR functions:  
-`?MoonShineR::predict_lux`  
-`?MoonShineR::plot_lux`
-6. Also see Chapter 1 "MoonShineR package" of the online instruction manual: https://lokpoon.github.io/MoonShine_manual/lux_calculator.html
-<br/><br/>
-Note:
-MoonShineR (v1.1) is tested working with these dependency packages versions:
-	- suncalc (<= 0.5.1),
-	- magrittr (<= 2.0.3),
-	- dplyr (<= 1.1.4),
-	- lubridate (<= 1.9.3),
-	- REdaS (<= 0.9.4),
-	- ggplot2 (<= 3.5.1)
-
-If MoonShineR is not working, please first try installing the above packages in the specified version.
+- MoonShineR is currently published in the CRAN repository. Install MoonShineR in R with install.packages("MoonShineR"), or, in RStudio, search for MoonShineR in the Packages tab and click Install.
 
 MoonShineR package GitHub source code repository:  
 https://github.com/Crampton-Lab/MoonShineR_package
