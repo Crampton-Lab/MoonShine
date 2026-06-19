@@ -12,7 +12,7 @@ Poon, L., Jenks, I. T., & Crampton, W. G. R. (2024). MoonShine: A software-hardw
 Technical support contact: Lok Poon (poonchiulok@gmail.com)
 
 # Predict moonlight ground illuminance using the R package MoonShineR:
-## Install the MoonShineR package:
+## Install and run:
 1. MoonShineR is currently published in the CRAN repository. Install MoonShineR in R with `install.packages("MoonShineR")`. Alternatively, in RStudio, search for MoonShineR in the Packages tab and click Install.
 2. Load the MoonShineR library:  
 `library(MoonShineR)`
