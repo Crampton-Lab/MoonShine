@@ -20,18 +20,14 @@ Technical support contact: Lok Poon (poonchiulok@gmail.com)
 - `?MoonShineR::predict_lux`  for calculating a predicted illuminance dataframe.
 - `?MoonShineR::plot_lux` for plotting the predicted illuminance dataframe.
 
-CRAN documentation:
-https://cran.r-project.org/web/packages/MoonShineR/index.html
+CRAN documentation: https://cran.r-project.org/web/packages/MoonShineR/index.html
 
-Source code repository:  
-https://github.com/Crampton-Lab/MoonShineR_package
-
+Source code repository: https://github.com/Crampton-Lab/MoonShineR_package
 # Re-create light regimes using LED arrays for experiments:
 Do not use the CRAN MoonShineR package. This requires an advanced version of MoonShineR scripts to generate a light schedule that is read by Pyhon scripsts running on a Raspberry Pi that control LED arrays.
 
 Full instructions are available in the online instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html  
 The current repository hosts all required files mentioned in this manual. The following is a checklist of the files.
-
 ## Files for creating a light regime schedule table during the preparation phase (run on any personal computer)
 ### The two versions of the MoonShineR scheduler R program:
 - `moonshineR_moonlight_scheduler.R`
