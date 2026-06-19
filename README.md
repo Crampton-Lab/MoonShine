@@ -27,12 +27,12 @@ Source code repository:
 https://github.com/Crampton-Lab/MoonShineR_package
 
 # Re-create light regimes using LED arrays for experiments:
-- Do not use the CRAN MoonShineR package. This requires an advanced version of MoonShineR scripts to generate a light schedule that is read by Pyhon scripsts running on a Raspberry Pi that control LED arrays.
+Do not use the CRAN MoonShineR package. This requires an advanced version of MoonShineR scripts to generate a light schedule that is read by Pyhon scripsts running on a Raspberry Pi that control LED arrays.
 
 Full instructions are available in the online instruction manual: https://lokpoon.github.io/MoonShine_manual/overview.html  
 The current repository hosts all required files mentioned in this manual. The following is a checklist of the files.
 
-## Files that run on the computer
+## Files for creating a light regime schedule table during the preparation phase (run on any personal computer)
 ### The two versions of the MoonShineR scheduler R program:
 - `moonshineR_moonlight_scheduler.R`
 - `moonshineR_sunlight_twilight_scheduler.R`
@@ -40,7 +40,7 @@ The current repository hosts all required files mentioned in this manual. The fo
 - `RGBW_LED_spectrum.xlsx`
 ### Manual scheduler Excel template file:
 - `manual_scheduler.xlsx`
-## Files that run on the Raspberry Pi
+## Files for executing the light regime (run on the Raspberry Pi that controls the LED arrays)
 ### The moon and sun versions of the MoonShineP Python program:
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
