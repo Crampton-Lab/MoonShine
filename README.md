@@ -59,5 +59,5 @@ https://lokpoon.github.io/MoonShine_manual/overview.html
 Poon, L., Jenks, I. T., & Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. 15, 701–715. https://doi.org/10.1111/2041-210X.14299
 
 ## Technical support
-Contact Lok Poon (poonchiulok@gmail.com)
+Lok Poon (poonchiulok@gmail.com)
 
