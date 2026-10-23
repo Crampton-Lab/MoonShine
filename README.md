@@ -51,12 +51,11 @@ This GitHub repository contains the files required for experimental light re-cre
 - `clear_moon.py`
 - `clear_sun.py`
 
-## Instruction Manual
+### Instruction Manual
 https://lokpoon.github.io/MoonShine_manual/overview.html
 
-## Citation
+### Citation
 Poon, L., Jenks, I. T., & Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. 15, 701–715. https://doi.org/10.1111/2041-210X.14299
 
-## Technical support contact: Lok Poon (poonchiulok@gmail.com)
-<img width="468" height="643" alt="image" src="https://github.com/user-attachments/assets/bd0523db-2769-46a8-98fd-766c94e9917c" />
+### Technical support contact: Lok Poon (poonchiulok@gmail.com)
 
