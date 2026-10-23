@@ -31,24 +31,24 @@ The stand-alone MoonShineR scheduler scripts generate light schedules that are r
 
 This GitHub repository contains the files required for experimental light re-creation, as listed below.
 
-### Files for creating a light regime schedule table during the preparation phase (run on any personal computer)
+### Files for creating a light regime schedule table during the preparation phase (run on any personal computer):
 
-#### The two stand-alone MoonShineR scheduler scripts:
+### 1) The two stand-alone MoonShineR scheduler scripts:
 - `moonshineR_moonlight_scheduler.R`
 - `moonshineR_sunlight_twilight_scheduler.R`
 
-#### LED spectrum preview Excel file:
+### 2) LED spectrum preview Excel file:
 - `RGBW_LED_spectrum.xlsx`
 
-#### Manual scheduler Excel template file:
+### 3) Manual scheduler Excel template file:
 - `manual_scheduler.xlsx`
 
-#### Files for executing the light regime (run on the Raspberry Pi that controls the LED arrays)
+### 4) Files for executing the light regime (run on the Raspberry Pi that controls the LED arrays):
 **The moon and sun versions of the MoonShineP Python program:**
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
 
-#### The moon and sun versions of `clear.py` for turning off the LED arrays:
+### 5) The moon and sun versions of `clear.py` for turning off the LED arrays:
 - `clear_moon.py`
 - `clear_sun.py`
 
