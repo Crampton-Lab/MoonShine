@@ -19,7 +19,7 @@ Alternatively, in RStudio, search for MoonShineR in the Packages tab and click I
 4.	Consult the R documentation for the two main MoonShineR functions and try running the examples:
 - `?MoonShineR::predict_lux` for predicting ground illuminance.
 - `?MoonShineR::plot_lux for` plotting the predicted illuminance.
-- 
+
 **CRAN documentation:** https://cran.r-project.org/package=MoonShineR
   
 **Source code repository:** https://github.com/Crampton-Lab/MoonShineR_package
@@ -48,7 +48,7 @@ This GitHub repository contains the files required for experimental light re-cre
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
 
-##### The moon and sun versions of clear.py for turning off the LED arrays:
+##### The moon and sun versions of `clear.py` for turning off the LED arrays:
 - `clear_moon.py`
 - `clear_sun.py`
 
