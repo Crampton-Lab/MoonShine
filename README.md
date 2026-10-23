@@ -33,8 +33,8 @@ This GitHub repository contains the files required for experimental light re-cre
 
 ### Files for creating a light regime schedule table during the preparation phase (run on any personal computer):
 #### 1) The two stand-alone MoonShineR scheduler scripts:
-- `moonshineR_moonlight_scheduler.R`
-- `moonshineR_sunlight_twilight_scheduler.R`
+- `moonshineR_moonlight_scheduler_(ver2025oct).R`
+- `moonshineR_sunlight_twilight_scheduler_(ver2025oct).R`
 
 #### 2) LED spectrum preview Excel file:
 - `RGBW_LED_spectrum.xlsx`
