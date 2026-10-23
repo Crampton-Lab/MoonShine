@@ -10,12 +10,13 @@ The **MoonShineR R package** is available through CRAN and should be installed d
 ### Install and run
 1.	Install MoonShineR in R using:
 `install.packages("MoonShineR")`
+
 Alternatively, in RStudio, search for MoonShineR in the Packages tab and click Install.
 
-2.	Load the MoonShineR package:
+3.	Load the MoonShineR package:
 `library(MoonShineR)`
 
-3.	Consult the R documentation for the two main MoonShineR functions and try running the examples:
+4.	Consult the R documentation for the two main MoonShineR functions and try running the examples:
 - `?MoonShineR::predict_lux` for predicting ground illuminance.
 - `?MoonShineR::plot_lux for` plotting the predicted illuminance.
 - 
@@ -57,5 +58,6 @@ https://lokpoon.github.io/MoonShine_manual/overview.html
 ### Citation
 Poon, L., Jenks, I. T., & Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. 15, 701–715. https://doi.org/10.1111/2041-210X.14299
 
-### Technical support contact: Lok Poon (poonchiulok@gmail.com)
+### Technical support
+Contact Lok Poon (poonchiulok@gmail.com)
 
