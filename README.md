@@ -24,40 +24,40 @@ Alternatively, in RStudio, search for MoonShineR in the Packages tab and click I
   
 **Source code repository:** https://github.com/Crampton-Lab/MoonShineR_package
 
-### Re-create light regimes using LED arrays for experiments:
+## Re-create light regimes using LED arrays for experiments
 The **MoonShineR moonlight and sunlight/twilight scheduler scripts**, which generate LED control schedules for use with MoonShineP, remain available in this GitHub repository. These provide additional functionality not included in the CRAN R package.
 
 The stand-alone MoonShineR scheduler scripts generate light schedules that are read by MoonShineP, a Python program running on a Raspberry Pi that controls the LED arrays.
 
 This GitHub repository contains the files required for experimental light re-creation, as listed below.
 
-#### Files for creating a light regime schedule table during the preparation phase (run on any personal computer)
+### Files for creating a light regime schedule table during the preparation phase (run on any personal computer)
 
-##### The two stand-alone MoonShineR scheduler scripts:
+#### The two stand-alone MoonShineR scheduler scripts:
 - `moonshineR_moonlight_scheduler.R`
 - `moonshineR_sunlight_twilight_scheduler.R`
 
-##### LED spectrum preview Excel file:
+#### LED spectrum preview Excel file:
 - `RGBW_LED_spectrum.xlsx`
 
-##### Manual scheduler Excel template file:
+#### Manual scheduler Excel template file:
 - `manual_scheduler.xlsx`
 
-##### Files for executing the light regime (run on the Raspberry Pi that controls the LED arrays)
+#### Files for executing the light regime (run on the Raspberry Pi that controls the LED arrays)
 **The moon and sun versions of the MoonShineP Python program:**
 - control_moon folder containing `moonshine_moon.py`
 - control_sun folder containing `moonshine_sun.py`
 
-##### The moon and sun versions of `clear.py` for turning off the LED arrays:
+#### The moon and sun versions of `clear.py` for turning off the LED arrays:
 - `clear_moon.py`
 - `clear_sun.py`
 
-### Instruction Manual
+## Instruction Manual
 https://lokpoon.github.io/MoonShine_manual/overview.html
 
-### Citation
+## Citation
 Poon, L., Jenks, I. T., & Crampton, W. G. R. (2024). MoonShine: A software-hardware system for simulating moonlight ground illuminance and re-creating artificial moonlight cycles in a laboratory environment. Methods in Ecology and Evolution. 15, 701–715. https://doi.org/10.1111/2041-210X.14299
 
-### Technical support
+## Technical support
 Contact Lok Poon (poonchiulok@gmail.com)
 
